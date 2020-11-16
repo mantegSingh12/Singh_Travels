@@ -12,6 +12,7 @@ class ReviewsWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ListView.separated(
+        padding: EdgeInsets.all(16),
         itemBuilder: (context, index) {
           final review = location.reviews[index];
           return AnimatedBuilder(
@@ -64,9 +65,7 @@ class ReviewsWidget extends StatelessWidget {
               ),
             ],
           ),
-          SizedBox(
-            height: 8,
-          ),
+          SizedBox(height: 8),
           Text(
             review.description,
             style: TextStyle(
