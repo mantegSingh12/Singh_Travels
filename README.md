@@ -2,9 +2,16 @@
 
 A new Flutter application.
 
-## Getting Started
+## ScreenShots
 
-This project is a starting point for a Flutter application.
+|  ScreenShot 1  |  ScreenShot 2   |  ScreenSHot 3  |  ScreenShot 4  |
+|:---|:----|:---|:---|
+|  <a target="_blank"><img src="travelUI 1.jpg" width="280"></a>  |  <a target="_blank"><img src="travelUI 2.jpg" width="280"></a>  |  <a target="_blank"><img src="travelUI 3.jpg" width="280"></a>  |  <a target="_blank"><img src="travelUI 4.jpg" width="280"></a>  |
+
+  <br>
+
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
